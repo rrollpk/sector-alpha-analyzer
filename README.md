@@ -6,7 +6,8 @@
 4. **Cálculo de alpha teórica**, para detectar empresas potencialmente infravaloradas o sobrevaloradas
 5. **Exportación de resultados a Excel**
 
-*Automatización mediante IA no supervisada*
+*Pendiente: Automatización mediante IA no supervisada*
+
 ---
 
 ## 🛠️ Requisitos
